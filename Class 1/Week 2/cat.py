@@ -124,6 +124,6 @@ def propagate(w, b, X, Y):
                 "dw": dw,
                 "db": db
              }
-    return (grads , cost)
+    return (grads, cost)
 
 
